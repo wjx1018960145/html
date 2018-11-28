@@ -1,5 +1,5 @@
 
-var baseUrl = '127.0.0.1'
+var baseUrl = '130.252.9.105'
 var prod = '9090'
 
 function getBaseUrl() {
